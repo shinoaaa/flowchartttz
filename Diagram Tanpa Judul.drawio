@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1">
   <diagram name="Halaman-1" id="Kh6YlZJHAeugggCmH4qi">
-    <mxGraphModel dx="1892" dy="1194" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#FFFFFF,#FBFBFB)" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="1577" dy="995" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#FFFFFF,#FBFBFB)" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -441,14 +441,14 @@
             <mxRectangle height="30" width="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XoXtF0DPGySKwukq__ZW-104" edge="1" parent="1" source="XoXtF0DPGySKwukq__ZW-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="XoXtF0DPGySKwukq__ZW-28">
+        <mxCell id="XoXtF0DPGySKwukq__ZW-104" edge="1" parent="1" source="XoXtF0DPGySKwukq__ZW-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.499;entryY=0.91;entryDx=0;entryDy=0;entryPerimeter=0;" target="0F2vKnkRWs13TeAZsCkk-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="436" y="693" />
-              <mxPoint x="436" y="693" />
+              <mxPoint x="436" y="711" />
+              <mxPoint x="436" y="711" />
             </Array>
             <mxPoint x="420" y="742" as="sourcePoint" />
-            <mxPoint x="437" y="748" as="targetPoint" />
+            <mxPoint x="370" y="707" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XoXtF0DPGySKwukq__ZW-106" edge="1" parent="1" source="XoXtF0DPGySKwukq__ZW-5" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startFill=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="XoXtF0DPGySKwukq__ZW-32" value="">
@@ -1015,62 +1015,32 @@
         <mxCell id="0F2vKnkRWs13TeAZsCkk-107" edge="1" parent="1" source="0F2vKnkRWs13TeAZsCkk-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;endArrow=ERmandOne;endFill=0;startArrow=ERoneToMany;startFill=0;labelBackgroundColor=none;fontColor=default;" target="XoXtF0DPGySKwukq__ZW-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="azbDEtKq8xjVnx2witBB-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mengambil dari&amp;nbsp;&lt;span style=&quot;color: rgb(191, 191, 191); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;→&lt;/span&gt;" vertex="1">
-          <mxGeometry height="36" width="141" x="393" y="93" as="geometry" />
-        </mxCell>
         <mxCell id="azbDEtKq8xjVnx2witBB-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;←&amp;nbsp;&lt;/span&gt;Diambil ke&amp;nbsp;" vertex="1">
           <mxGeometry height="36" width="141" x="400" y="135" as="geometry" />
         </mxCell>
         <mxCell id="azbDEtKq8xjVnx2witBB-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;↑&lt;/span&gt;Menyimpan ke" vertex="1">
           <mxGeometry height="36" width="141" x="156" y="294" as="geometry" />
         </mxCell>
-        <mxCell id="azbDEtKq8xjVnx2witBB-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;↓&lt;/span&gt;Disimpan oleh" vertex="1">
-          <mxGeometry height="36" width="99" x="44" y="290" as="geometry" />
-        </mxCell>
         <mxCell id="azbDEtKq8xjVnx2witBB-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Melakukan&amp;nbsp;&lt;span style=&quot;color: rgb(191, 191, 191); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;→&lt;/span&gt;" vertex="1">
           <mxGeometry height="36" width="141" x="231" y="464" as="geometry" />
-        </mxCell>
-        <mxCell id="azbDEtKq8xjVnx2witBB-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;←&amp;nbsp;&lt;/span&gt;Dilakukan" vertex="1">
-          <mxGeometry height="36" width="141" x="228" y="500" as="geometry" />
         </mxCell>
         <mxCell id="azbDEtKq8xjVnx2witBB-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;↑&lt;/span&gt;Dijabarkan" vertex="1">
           <mxGeometry height="36" width="141" x="429" y="387" as="geometry" />
         </mxCell>
-        <mxCell id="azbDEtKq8xjVnx2witBB-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;↓&lt;/span&gt;Diwakilkan" vertex="1">
-          <mxGeometry height="36" width="99" x="334" y="387" as="geometry" />
-        </mxCell>
         <mxCell id="azbDEtKq8xjVnx2witBB-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;↑&lt;/span&gt;Melayani" vertex="1">
           <mxGeometry height="36" width="86" x="443" y="708" as="geometry" />
-        </mxCell>
-        <mxCell id="azbDEtKq8xjVnx2witBB-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;↓&lt;/span&gt;Dilayani" vertex="1">
-          <mxGeometry height="36" width="99" x="334" y="704" as="geometry" />
         </mxCell>
         <mxCell id="azbDEtKq8xjVnx2witBB-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Melakukan&amp;nbsp;&lt;span style=&quot;color: rgb(191, 191, 191); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;→&lt;/span&gt;" vertex="1">
           <mxGeometry height="36" width="141" x="714" y="417" as="geometry" />
         </mxCell>
-        <mxCell id="azbDEtKq8xjVnx2witBB-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;←&amp;nbsp;&lt;/span&gt;Dilakukan" vertex="1">
-          <mxGeometry height="36" width="141" x="721" y="449" as="geometry" />
-        </mxCell>
         <mxCell id="azbDEtKq8xjVnx2witBB-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Melakukan&amp;nbsp;&lt;span style=&quot;color: rgb(191, 191, 191); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;→&lt;/span&gt;" vertex="1">
           <mxGeometry height="36" width="141" x="564" y="817" as="geometry" />
         </mxCell>
-        <mxCell id="azbDEtKq8xjVnx2witBB-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;←&amp;nbsp;&lt;/span&gt;Dilakukan" vertex="1">
-          <mxGeometry height="36" width="141" x="573" y="850" as="geometry" />
-        </mxCell>
-        <mxCell id="azbDEtKq8xjVnx2witBB-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Melayani&amp;nbsp;&lt;span style=&quot;color: rgb(191, 191, 191); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;→&lt;/span&gt;" vertex="1">
-          <mxGeometry height="36" width="141" x="992" y="800" as="geometry" />
-        </mxCell>
-        <mxCell id="azbDEtKq8xjVnx2witBB-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;←&lt;/span&gt;Dilayani" vertex="1">
+        <mxCell id="azbDEtKq8xjVnx2witBB-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;←&lt;/span&gt;Melayani" vertex="1">
           <mxGeometry height="36" width="141" x="1037" y="912" as="geometry" />
         </mxCell>
-        <mxCell id="azbDEtKq8xjVnx2witBB-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;↑&lt;/span&gt;Mengambil dari" vertex="1">
-          <mxGeometry height="36" width="86" x="748.5" y="687" as="geometry" />
-        </mxCell>
         <mxCell id="azbDEtKq8xjVnx2witBB-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;↓&lt;/span&gt;Diambil&lt;div&gt;ke&lt;/div&gt;" vertex="1">
-          <mxGeometry height="36" width="99" x="834.5" y="687" as="geometry" />
-        </mxCell>
-        <mxCell id="azbDEtKq8xjVnx2witBB-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mengambil dari&amp;nbsp;&lt;span style=&quot;color: rgb(191, 191, 191); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;→&lt;/span&gt;" vertex="1">
-          <mxGeometry height="36" width="141" x="567" y="180" as="geometry" />
+          <mxGeometry height="36" width="99" x="767" y="679" as="geometry" />
         </mxCell>
         <mxCell id="azbDEtKq8xjVnx2witBB-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;←&amp;nbsp;&lt;/span&gt;Diambil ke&amp;nbsp;" vertex="1">
           <mxGeometry height="36" width="141" x="573" y="216" as="geometry" />
@@ -1078,19 +1048,10 @@
         <mxCell id="azbDEtKq8xjVnx2witBB-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;↑&lt;/span&gt;Mengelola" vertex="1">
           <mxGeometry height="36" width="86" x="1364" y="715" as="geometry" />
         </mxCell>
-        <mxCell id="azbDEtKq8xjVnx2witBB-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;↓&lt;/span&gt;Dikelola" vertex="1">
-          <mxGeometry height="36" width="99" x="1456" y="719" as="geometry" />
-        </mxCell>
         <mxCell id="azbDEtKq8xjVnx2witBB-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;←&amp;nbsp;&lt;/span&gt;Diambil ke&amp;nbsp;" vertex="1">
           <mxGeometry height="36" width="141" x="1097" y="413" as="geometry" />
         </mxCell>
-        <mxCell id="azbDEtKq8xjVnx2witBB-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mengambil dari&amp;nbsp;&lt;span style=&quot;color: rgb(191, 191, 191); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;→&lt;/span&gt;" vertex="1">
-          <mxGeometry height="36" width="141" x="1093" y="506" as="geometry" />
-        </mxCell>
-        <mxCell id="azbDEtKq8xjVnx2witBB-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mengambil&amp;nbsp;&lt;span style=&quot;color: rgb(191, 191, 191); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;→&lt;/span&gt;" vertex="1">
-          <mxGeometry height="36" width="141" x="946" y="184" as="geometry" />
-        </mxCell>
-        <mxCell id="azbDEtKq8xjVnx2witBB-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Diambil&amp;nbsp;&lt;span style=&quot;color: rgb(191, 191, 191); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;→&lt;/span&gt;" vertex="1">
+        <mxCell id="azbDEtKq8xjVnx2witBB-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;←&lt;/span&gt;Diambil&amp;nbsp;" vertex="1">
           <mxGeometry height="36" width="141" x="959" y="229" as="geometry" />
         </mxCell>
       </root>
