@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.2">
   <diagram name="Halaman-1" id="vnlEmN5kyEogy_R-pszr">
-    <mxGraphModel dx="1158" dy="1490" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="403" dy="518" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,7 +93,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mI1K3kymGKV3h9JYFlIb-22" parent="mI1K3kymGKV3h9JYFlIb-20" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#909090;fontColor=#1A1A1A;" value="umurPelg" vertex="1">
+        <mxCell id="mI1K3kymGKV3h9JYFlIb-22" parent="mI1K3kymGKV3h9JYFlIb-20" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#909090;fontColor=#1A1A1A;" value="tahunLahir" vertex="1">
           <mxGeometry height="30" width="150" x="30" as="geometry">
             <mxRectangle height="30" width="150" as="alternateBounds" />
           </mxGeometry>
@@ -333,7 +333,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mI1K3kymGKV3h9JYFlIb-78" parent="mI1K3kymGKV3h9JYFlIb-76" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#909090;fontColor=#1A1A1A;" value="umurPeg" vertex="1">
+        <mxCell id="mI1K3kymGKV3h9JYFlIb-78" parent="mI1K3kymGKV3h9JYFlIb-76" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#909090;fontColor=#1A1A1A;" value="tahunLahir" vertex="1">
           <mxGeometry height="30" width="150" x="30" as="geometry">
             <mxRectangle height="30" width="150" as="alternateBounds" />
           </mxGeometry>
@@ -1341,6 +1341,9 @@
         </mxCell>
         <mxCell id="GvKaXsZ2e95ptybaQpur-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#1A1A1A;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;↓&lt;/span&gt;Menghasilkan" vertex="1">
           <mxGeometry height="36" width="99" x="746" y="1354" as="geometry" />
+        </mxCell>
+        <mxCell id="DjiQRC80xXv6iFg0M14h-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#1A1A1A;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;←&amp;nbsp;&lt;/span&gt;Diambil ke&amp;nbsp;" vertex="1">
+          <mxGeometry height="36" width="141" x="954" y="237" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
