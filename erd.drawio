@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.2">
   <diagram name="Halaman-1" id="vnlEmN5kyEogy_R-pszr">
-    <mxGraphModel dx="1975" dy="995" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2375" dy="995" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mI1K3kymGKV3h9JYFlIb-1" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" value="Pelanggan" vertex="1">
-          <mxGeometry height="301" width="180" x="72" y="423" as="geometry" />
+          <mxGeometry height="301" width="180" x="-192" y="423" as="geometry" />
         </mxCell>
         <mxCell id="mI1K3kymGKV3h9JYFlIb-2" parent="mI1K3kymGKV3h9JYFlIb-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;labelBackgroundColor=none;strokeColor=#909090;fontColor=#1A1A1A;" value="" vertex="1">
           <mxGeometry height="30" width="180" y="30" as="geometry" />
@@ -854,7 +854,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mI1K3kymGKV3h9JYFlIb-209" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" value="Keranjang" vertex="1">
-          <mxGeometry height="151" width="180" x="72" y="96" as="geometry" />
+          <mxGeometry height="151" width="180" x="-192" y="96" as="geometry" />
         </mxCell>
         <mxCell id="mI1K3kymGKV3h9JYFlIb-210" parent="mI1K3kymGKV3h9JYFlIb-209" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;labelBackgroundColor=none;strokeColor=#909090;fontColor=#1A1A1A;" value="" vertex="1">
           <mxGeometry height="30" width="180" y="30" as="geometry" />
@@ -1159,7 +1159,7 @@
           <mxGeometry height="36" width="141" x="400" y="135" as="geometry" />
         </mxCell>
         <mxCell id="mI1K3kymGKV3h9JYFlIb-281" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#1A1A1A;" value="&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;↑&lt;/span&gt;Menyimpan ke" vertex="1">
-          <mxGeometry height="36" width="141" x="156" y="294" as="geometry" />
+          <mxGeometry height="36" width="141" x="-117" y="270" as="geometry" />
         </mxCell>
         <mxCell id="mI1K3kymGKV3h9JYFlIb-283" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#1A1A1A;" value="Melakukan&amp;nbsp;&lt;span style=&quot;color: rgb(191, 191, 191); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(28, 30, 36);&quot;&gt;→&lt;/span&gt;" vertex="1">
           <mxGeometry height="36" width="141" x="231" y="464" as="geometry" />
