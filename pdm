@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.2">
   <diagram name="Halaman-1" id="O7uBp4dszVP5WQbLOsxH">
-    <mxGraphModel dx="701" dy="442" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1217" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1753,7 +1753,7 @@
             <mxRectangle height="30" width="130.61580645161325" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i9Z1m3HHYYz2doaqPfUN-141" parent="i9Z1m3HHYYz2doaqPfUN-138" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1">
+        <mxCell id="i9Z1m3HHYYz2doaqPfUN-141" parent="i9Z1m3HHYYz2doaqPfUN-138" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#909090;fontColor=#1A1A1A;" value="Varchar(10)" vertex="1">
           <mxGeometry height="30" width="114.19354838709637" x="160.61580645161325" as="geometry">
             <mxRectangle height="30" width="114.19354838709637" as="alternateBounds" />
           </mxGeometry>
